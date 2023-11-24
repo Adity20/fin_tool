@@ -1,0 +1,11 @@
+streamlit
+yfinance
+matplotlib
+plotly
+gnews
+prophet
+requests
+nltk
+pandas
+python-dotenv
+pymongo
